@@ -7,7 +7,7 @@
 (function () {
 
   // ▼▼▼ CHANGE THIS to your raw GitHub URL (see instructions) ▼▼▼
-  const BASE_URL = 'https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/data/';
+  const BASE_URL = 'https://raw.githubusercontent.com/tosharetoday007/latestfoto-data/main/';
   // ▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲
 
   let toursData         = null;
